@@ -4,7 +4,6 @@ import com.dh.catalogservice.api.service.ICatalogService;
 import com.dh.catalogservice.api.service.MovieFeignClient;
 import com.dh.catalogservice.domain.model.dto.Catalog;
 import com.dh.catalogservice.domain.model.dto.Movie;
-import com.dh.catalogservice.domain.repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
